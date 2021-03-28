@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/mysql-v5.7+-blue?logo=mysql"/>
 </P>
 
-### 🍜 우동먹는 개발자
+# 🍜 우동먹는 개발자
 
 😢제발 취업 좀 하고 싶다!!!😢
 <br/>
