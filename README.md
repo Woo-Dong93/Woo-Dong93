@@ -17,6 +17,7 @@
 ### 💜 Experience
 - **SSAFY** - IT Education, Web developer *(Jul 2019 ~ Jun 2020)*
 - **Naver BostCamp** - IT Education, CS learning and Web developer *(Jul 2020 - Dec 2020)*
+- **Naver SmartEditor Intern** - SmartEditor Web developer *(May 2021 - in progress)*
 <br/>
 
 ### 💚 Github Stats
